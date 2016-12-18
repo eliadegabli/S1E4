@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">S1E4</string>
+    <string name="up">UP</string>
+    <string name="down">Down</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
+
+
+</resources>
